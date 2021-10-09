@@ -70,3 +70,8 @@ footer{
     font-size: 18px;
     font-family: var(--mainText);
 }
+.inside{
+    position: relative;
+    left :-220px;
+    height:650px;
+}

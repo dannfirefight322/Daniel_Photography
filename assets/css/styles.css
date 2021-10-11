@@ -118,3 +118,18 @@ footer{
 .lightbox-gallery .item {
     padding-bottom: 30px
 }
+@media (max-width:1187px){
+    .aboutMe{
+        font-size:19px;
+    }
+}
+@media (max-width:884px){
+    .aboutMe{
+        font-size:14px;
+    }
+}
+@media (max-width:767px){
+    .aboutMe{
+        font-size:25px;
+    }
+}
